@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="F:/JXTA/jxtajar/log4j.jar"/>
+	<classpathentry kind="lib" path="F:/JXTA/jxtajar/bcprov-jdk14.jar"/>
+	<classpathentry kind="lib" path="F:/JXTA/jxtajar/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="F:/JXTA/jxtajar/jdom.jar"/>
+	<classpathentry kind="lib" path="F:/JXTA/jxtajar/jxtaext.jar"/>
+	<classpathentry kind="lib" path="F:/JXTA/jxtajar/org.mortbay.jetty.jar"/>
+	<classpathentry kind="lib" path="F:/JXTA/jxtajar/swixml.jar"/>
+	<classpathentry kind="lib" path="F:/JXTA/jxse-lib-2.5/jxta.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
